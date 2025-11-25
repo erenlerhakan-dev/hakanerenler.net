@@ -1,0 +1,25 @@
+https?:\/\/[^\/]+\.pl
+https?:\/\/[^\/]+\.pl\/\S+,s,\d{2,8}\/
+https?:\/\/[^\/]+\.pl\/\S*\?p=\d{2,8}
+<a href="[^"]*">Slots<\/a>
+<a href="[^"]*">Casino<\/a>
+<a href="[^"]*">HGH<\/a>
+bitcoin
+BITCOIN
+viagra
+VIAGRA
+casino
+CASINO
+dvd
+DVD
+Egitim Seti
+Egitim Bilgisi
+TANITIM
+tanıtım
+SEKTOREL
+sektörel
+Egitim Seti
+EGITIM SETI
+EĞİTİM SETİ
+CD
+cd

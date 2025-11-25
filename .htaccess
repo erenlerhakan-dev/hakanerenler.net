@@ -1,0 +1,15 @@
+Header set Strict-Transport-Security "max-age=31536000" env=HTTPS
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://www.hakanerenler.net/$1 [L,R=301]
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://www.hakanerenler.net/$1 [L,R=301] 
+
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?hakanerenler.net [NC]
+
+ErrorDocument 403 https://www.hakanerenler.net
+ErrorDocument 404 https://www.hakanerenler.net
+ErrorDocument 500 https://www.hakanerenler.net
+ErrorDocument 502 https://www.hakanerenler.net
