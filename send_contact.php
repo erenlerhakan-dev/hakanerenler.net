@@ -85,7 +85,7 @@ $mail->SMTPSecure  = "SSL";
 $mail->Host        = "smtppro.zoho.eu";
 $mail->Port        = 587;
 $mail->Username    = "info@hakanerenler.net";
-$mail->Password    = "454MDanaDM565!";
+$mail->Password    = "wbFAQeTLCR2i";
 $mail->IsHTML(true);
 $mail->SetFrom("info@hakanerenler.net", "Hakan Erenler Web Development");
 $mail->Subject     = $subject;
