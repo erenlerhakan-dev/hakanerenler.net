@@ -50,18 +50,18 @@ $phone       = $_POST['phone'];
 
 $result1 = $filter->check_text($name); if ($result1) { echo "nok"; exit; }
 $result2 = $filter->check_text($email); if ($result2) { echo "nok"; exit; }
-$result3 = $filter->check_text($_phone); if ($result3) { echo "nok"; exit; }
+$result3 = $filter->check_text($phone); if ($result3) { echo "nok"; exit; }
 $result4 = $filter->check_text($subject); if ($result4) { echo "nok"; exit; }
 $result5 = $filter->check_text($message); if ($result5) { echo "nok"; exit; }
 
 if (contains($spam_list, $name) == TRUE) { echo "bad"; exit; }
 if (contains($spam_list, $email) == TRUE) { echo "bad"; exit; }
-if (contains($spam_list, $_phone) == TRUE) { echo "bad"; exit; }
+if (contains($spam_list, $phone) == TRUE) { echo "bad"; exit; }
 if (contains($spam_list, $subject) == TRUE) { echo "bad"; exit; }
 if (contains($spam_list, $message) == TRUE) { echo "bad"; exit; }
 
 if (empty($name)) { echo "name"; exit; }
-if (empty($_phone) OR strlen($_phone) < 9) { echo "phone"; exit; }
+if (empty($phone) OR strlen($phone) < 9) { echo "phone"; exit; }
 if (!filter_var($email, FILTER_VALIDATE_EMAIL)) { echo "emailbad"; exit; }
 if (empty($email) OR strlen($email) < 9) { echo "email"; exit; }
 if (empty($subject)) { echo "message"; exit; }
