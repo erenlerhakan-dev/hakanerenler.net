@@ -90,7 +90,7 @@ $mail->SMTPSecure  = "TSL";
 $mail->Host        = "smtppro.zoho.eu";
 $mail->Port        = 587;
 $mail->Username    = "info@hakanerenler.net";
-$mail->Password    = "wbFA QeTL CR2i";
+$mail->Password    = "4JjhKiDGCWdU";
 $mail->IsHTML(true);
 $mail->SetFrom("info@hakanerenler.net", "Hakan Erenler Web Development");
 $mail->Subject     = $subject;
