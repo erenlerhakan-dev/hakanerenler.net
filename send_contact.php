@@ -5,6 +5,7 @@ include_once('assets/php-spam-filter/spamfilter.php');
 include_once('assets/black_ip.php');
 
 $filter = new SpamFilter();
+session_start();
 
 if ($_SESSION['revalid'] != "revalid") {
 
