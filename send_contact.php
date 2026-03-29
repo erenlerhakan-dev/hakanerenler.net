@@ -1,6 +1,4 @@
 <?php
-session_start();
-
 include_once('assets/class.phpmailer.php');
 include_once('assets/class.smtp.php');
 include_once('assets/php-spam-filter/spamfilter.php');
