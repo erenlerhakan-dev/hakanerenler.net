@@ -61,7 +61,7 @@ if (contains($spam_list, $subject) == TRUE) { echo "bad"; exit; }
 if (contains($spam_list, $message) == TRUE) { echo "bad"; exit; }
 
 if (empty($name)) { echo "name"; exit; }
-if (empty($_phone) OR strlen($_phone) < 10) { echo "phone"; exit; }
+if (empty($_phone) OR strlen($_phone) < 9) { echo "phone"; exit; }
 if (!filter_var($email, FILTER_VALIDATE_EMAIL)) { echo "emailbad"; exit; }
 if (empty($email) OR strlen($email) < 9) { echo "email"; exit; }
 if (empty($subject)) { echo "message"; exit; }
