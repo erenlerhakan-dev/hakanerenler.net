@@ -1,4 +1,5 @@
 <?php
+include_once('assets/h_functions.php');
 include_once('assets/class.phpmailer.php');
 include_once('assets/class.smtp.php');
 include_once('assets/php-spam-filter/spamfilter.php');
