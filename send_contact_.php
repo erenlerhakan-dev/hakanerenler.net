@@ -43,9 +43,9 @@ if (!empty($_POST)) {
 
 $name        = $_POST['name'];
 $email       = $_POST['email'];
+$phone       = $_POST['phone'];
 $subject     = $_POST['subject'];
 $message     = $_POST['message'];
-$phone       = $_POST['phone'];
 
 $result1 = $filter->check_text($name); if ($result1) { echo "nok"; exit; }
 $result2 = $filter->check_text($email); if ($result2) { echo "nok"; exit; }
