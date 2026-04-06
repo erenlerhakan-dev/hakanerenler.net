@@ -1,4 +1,5 @@
 <?php
+$ip = getIP();
 $e_body = <<<EOF
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -76,7 +77,7 @@ Teşekkürler $name
 </tr>
 <tr>
 <td class="free-text">
-<span><a href="">$email</a></span> adresinden ya da <span><a href="">$phone</a></span> telefonundan en kısa sürede cevap vereceğim.
+<span>$email</span> adresinden ya da <span>$phone</span> telefonundan en kısa sürede cevap vereceğim.
 </td>
 </tr>
 <tr>
@@ -91,8 +92,9 @@ Teşekkürler $name
 <tr>
 <td class="user-img">
 <a href=""><img class="user-img" src="https://www.hakanerenler.net/images/hakanerenler.webp" alt="hakan erenler" /></a>
-<br /><a href="">Sizden gelen mesaj</a>
-<br /><a href="">$subject</a>
+<br />Sizden gelen mesaj
+<br />$subject
+<br />$ip
 </td>
 </tr>
 <tr>
