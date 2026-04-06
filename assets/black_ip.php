@@ -97,5 +97,6 @@ if (getIP() == "46.246.8.96") { echo "bad"; exit; }
 if (getIP() == "46.246.122.52") { echo "bad"; exit; }
 if (getIP() == "212.56.48.65") { echo "bad"; exit; }
 if (getIP() == "168.81.206.11") { echo "bad"; exit; }
+if (getIP() == "138.219.122.92") { echo "bad"; exit; }
 
 ?>
