@@ -53,11 +53,11 @@ $result3 = $filter->check_text($phone); if ($result3) { echo "nok"; exit; }
 $result4 = $filter->check_text($subject); if ($result4) { echo "nok"; exit; }
 $result5 = $filter->check_text($message); if ($result5) { echo "nok"; exit; }
 
-if (contains($spam_list, $name) == TRUE) { echo "bad"; exit; }
-if (contains($spam_list, $email) == TRUE) { echo "bad"; exit; }
-if (contains($spam_list, $phone) == TRUE) { echo "bad"; exit; }
-if (contains($spam_list, $subject) == TRUE) { echo "bad"; exit; }
-if (contains($spam_list, $message) == TRUE) { echo "bad"; exit; }
+if (contains($spam_list, $name) === TRUE) { echo "bad"; exit; }
+if (contains($spam_list, $email) === TRUE) { echo "bad"; exit; }
+if (contains($spam_list, $phone) === TRUE) { echo "bad"; exit; }
+if (contains($spam_list, $subject) === TRUE) { echo "bad"; exit; }
+if (contains($spam_list, $message) === TRUE) { echo "bad"; exit; }
 
 if (empty($name)) { echo "name"; exit; }
 if (empty($phone) OR strlen($phone) < 9) { echo "phone"; exit; }
