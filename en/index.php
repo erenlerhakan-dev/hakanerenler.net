@@ -115,7 +115,7 @@ ga('send', 'pageview');
 $("#contact_form").submit(function( event ) {
 event.preventDefault();
 $.ajax({
-url: "send_contact.php",
+url: "send_contact_.php",
 type: 'POST',
 data: $('#contact_form').serialize(),
 success: function(response){
