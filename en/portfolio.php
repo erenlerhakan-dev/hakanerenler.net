@@ -26,7 +26,7 @@
 <!--///  2  ///-->
 <div class="col-lg-4 border-gray-2">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.tatilexpress.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.tatilexpress.com</span></a>
+<a href="https://www.tatilexpress.com.tr" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.tatilexpress.com</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
 <p class="m-0 mt-3 text-gray text-medium">Daily excursions</p>
 </div>
@@ -240,9 +240,9 @@
 <!--///  1  ///-->
 <div class="col-lg-4 border-gray-2">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.whmclinic.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.whmclinic.com</span></a>
+<a href="https://www.crafted.tr" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.crafted.tr</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Health Tourism</p>
+<p class="m-0 mt-3 text-gray text-medium">Interior Designer</p>
 </div>
 </div>
 <!--///  1  ///-->
@@ -291,9 +291,9 @@
 <!--///  3  ///-->
 <div class="col-lg-4 border-gray-2 bg-gray-dark-3">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.birdallarcrm.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.birdallarcrm.com</span></a>
+<a href="https://www.dcm-ltd.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.dcm-ltd.com</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Construction Industry CRM / ERP</p>
+<p class="m-0 mt-3 text-gray text-medium">Roreign Trade</p>
 </div>
 </div>
 <!--///  3  ///-->
@@ -504,9 +504,9 @@
 <!--///  2  ///-->
 <div class="col-lg-4 border-gray-2 bg-gray-dark-3">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.lamodemilano.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.lamodemilano.com</span></a>
+<a href="https://www.hacamategitimi.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.hacamategitimi.com</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">E-Commerce</p>
+<p class="m-0 mt-3 text-gray text-medium">Education</p>
 </div>
 </div>
 <!--///  2  ///-->
@@ -546,9 +546,9 @@
 <!--///  3  ///-->
 <div class="col-lg-4 border-gray-2 bg-gray-dark-3">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.kuwotechturkiye.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.kuwotechturkiye.com</span></a>
+<a href="https://www.luvastone.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.luvastone.com</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Dental</p>
+<p class="m-0 mt-3 text-gray text-medium">Firma</p>
 </div>
 </div>
 <!--///  3  ///-->
@@ -578,9 +578,9 @@
 <!--///  3  ///-->
 <div class="col-lg-4 border-gray-2">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.alopeciamed.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.alopeciamed.com</span></a>
+<a href="https://www.turpaketleri.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.turpaketleri.com</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Health Tourism</p>
+<p class="m-0 mt-3 text-gray text-medium">Tourism</p>
 </div>
 </div>
 <!--///  3  ///-->
@@ -654,9 +654,9 @@
 <!--///  1  ///-->
 <div class="col-lg-4 border-gray-2 bg-gray-dark-3">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.habbaturki.net" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.habbaturki.net</span></a>
+<a href="https://www.cozumcloud.com.tr" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.cozumcloud.com.tr</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Trade</p>
+<p class="m-0 mt-3 text-gray text-medium">Web Development</p>
 </div>
 </div>
 <!--///  1  ///-->
@@ -782,9 +782,9 @@
 <!--///  1  ///-->
 <div class="col-lg-4 border-gray-2 bg-gray-dark-3">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.tatilkirala.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.tatilkirala.com</span></a>
+<a href="https://www.andoyapansiyon.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.andoyapansiyon.com</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Travel Agent</p>
+<p class="m-0 mt-3 text-gray text-medium">Pension</p>
 </div>
 </div>
 <!--///  1  ///-->
@@ -792,9 +792,9 @@
 <!--///  2  ///-->
 <div class="col-lg-4 border-gray-2">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.yerdenizokulu.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.yerdenizokulu.com</span></a>
+<a href="https://www.bodrumahsapmobilya.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.bodrumahsapmobilya.com</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Camp School</p>
+<p class="m-0 mt-3 text-gray text-medium">Carpenter</p>
 </div>
 </div>
 <!--///  2  ///-->
@@ -824,9 +824,9 @@
 <!--///  2  ///-->
 <div class="col-lg-4 border-gray-2 bg-gray-dark-3">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.gbtravel.com.tr" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.gbtravel.com.tr</span></a>
+<a href="https://www.bodrumcit.com.tr" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.bodrumcit.com.tr</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Daily excursions</p>
+<p class="m-0 mt-3 text-gray text-medium">Fence Producer</p>
 </div>
 </div>
 <!--///  2  ///-->
@@ -866,9 +866,9 @@
 <!--///  3  ///-->
 <div class="col-lg-4 border-gray-2 bg-gray-dark-3">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.atilabozkurt.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.atilabozkurt.com</span></a>
+<a href="https://www.bodrumevteknetemizlik.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.bodrumevteknetemizlik.com</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Personal portfolio</p>
+<p class="m-0 mt-3 text-gray text-medium">Cleaning Company</p>
 </div>
 </div>
 <!--///  3  ///-->
@@ -1015,9 +1015,9 @@
 <!--///  2  ///-->
 <div class="col-lg-4 border-gray-2 bg-gray-dark-3">
 <div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
-<a href="https://www.tmlicmimarlik.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.tmlicmimarlik.com</span></a>
+<a href="https://www.bodrumkarapark.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.bodrumkarapark.com</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
-<p class="m-0 mt-3 text-gray text-medium">Architect</p>
+<p class="m-0 mt-3 text-gray text-medium">Yacht Park</p>
 </div>
 </div>
 <!--///  2  ///-->
@@ -1252,6 +1252,102 @@
 <a href="https://www.tunamadencilik.com.tr" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.tunamadencilik.com.tr</span></a>
 <span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
 <p class="m-0 mt-3 text-gray text-medium">Madencilik Firması</p>
+</div>
+</div>
+<!--///  3  ///-->
+
+
+
+<!--///  1  ///-->
+<div class="col-lg-4 border-gray-2 bg-gray-dark-3">
+<div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
+<a href="https://www.bodrummerkezpansiyon.com.tr" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.bodrummerkezpansiyon.com.tr</span></a>
+<span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
+<p class="m-0 mt-3 text-gray text-medium">Pension</p>
+</div>
+</div>
+<!--///  1  ///-->
+
+<!--///  2  ///-->
+<div class="col-lg-4 border-gray-2">
+<div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
+<a href="https://www.bodrumpetkuafor.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.bodrumpetkuafor.com</span></a>
+<span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
+<p class="m-0 mt-3 text-gray text-medium">Pet Groomer</p>
+</div>
+</div>
+<!--///  2  ///-->
+
+<!--///  3  ///-->
+<div class="col-lg-4 border-gray-2 bg-gray-dark-3">
+<div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
+<a href="https://www.bodrumzesthotel.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.bodrumzesthotel.com</span></a>
+<span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
+<p class="m-0 mt-3 text-gray text-medium">Hotel</p>
+</div>
+</div>
+<!--///  3  ///-->
+
+
+
+<!--///  1  ///-->
+<div class="col-lg-4 border-gray-2 bg-gray-dark-3">
+<div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
+<a href="https://www.canmobilyabodrum.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.canmobilyabodrum.com</span></a>
+<span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
+<p class="m-0 mt-3 text-gray text-medium">Mobilya</p>
+</div>
+</div>
+<!--///  1  ///-->
+
+<!--///  2  ///-->
+<div class="col-lg-4 border-gray-2">
+<div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
+<a href="https://www.ikizlergidabodrum.com.tr" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.ikizlergidabodrum.com.tr</span></a>
+<span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
+<p class="m-0 mt-3 text-gray text-medium">Food</p>
+</div>
+</div>
+<!--///  2  ///-->
+
+<!--///  3  ///-->
+<div class="col-lg-4 border-gray-2 bg-gray-dark-3">
+<div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
+<a href="https://www.kariatekstil.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.kariatekstil.com</span></a>
+<span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
+<p class="m-0 mt-3 text-gray text-medium">Textile</p>
+</div>
+</div>
+<!--///  3  ///-->
+
+
+
+<!--///  1  ///-->
+<div class="col-lg-4 border-gray-2 bg-gray-dark-3">
+<div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
+<a href="https://www.miamiturkdanismanlik.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.miamiturkdanismanlik.com</span></a>
+<span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
+<p class="m-0 mt-3 text-gray text-medium">Psychologist</p>
+</div>
+</div>
+<!--///  1  ///-->
+
+<!--///  2  ///-->
+<div class="col-lg-4 border-gray-2">
+<div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
+<a href="https://www.milascekidemiri.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.milascekidemiri.com</span></a>
+<span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
+<p class="m-0 mt-3 text-gray text-medium">Automotive</p>
+</div>
+</div>
+<!--///  2  ///-->
+
+<!--///  3  ///-->
+<div class="col-lg-4 border-gray-2 bg-gray-dark-3">
+<div class="px-lg-3 py-5 py-lg-4 text-center text-lg-left">
+<a href="https://www.tazeanneyemegi.com" target="_blank"><span class="d-block font-alt letter-spacing-1 mt-2 text-white">www.tazeanneyemegi.com</span></a>
+<span class="bg-base-color ml-lg-0 mt-3 mx-auto sep-line-thick"></span>
+<p class="m-0 mt-3 text-gray text-medium">Catering</p>
 </div>
 </div>
 <!--///  3  ///-->
